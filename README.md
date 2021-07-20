@@ -1,4 +1,4 @@
-# problema_sat
+# SatSolver
 Resolução de problema SAT cadeira  - Introdução a Computação - IF668
 
 
